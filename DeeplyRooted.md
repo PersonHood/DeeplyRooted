@@ -4,8 +4,8 @@
 | [epochs](#epochs)
 | [thoughts](#thoughts)
 | [politics](#politics)
-| [democrats](#1828-2020s---Democrats)
-| [republicans](#1854-2019---Republicans)
+| [democrats](#1828-2020s---democrats)
+| [republicans](#1854-2019---republicans)
 
 No stance is deeply rooted. It is all a matter of the time scale.
 
@@ -42,7 +42,7 @@ So, let's start with the crux of the issues, "We the People", or those who were 
 - until 1967 - Not Interracial
 - until 1973 - Poll-taxed
 - until 2003 - Not Homosexual
-- until 2012 - Not DACA (children/adults)
+- until 2012 - Not DACA (children to adults)
 - until when - Not Transgender
 
 ## Epochs
@@ -51,8 +51,8 @@ So, let's start with the crux of the issues, "We the People", or those who were 
 | [epochs](#epochs)
 | [thoughts](#thoughts)
 | [politics](#politics)
-| [democrats](#1828-2020s---Democrats)
-| [republicans](#1854-2019---Republicans)
+| [democrats](#1828-2020s---democrats)
+| [republicans](#1854-2019---republicans)
 
 Epochs from oldest to most recent, the number of years preceding the present, on a semi-logarithmic scale:
 
@@ -144,10 +144,10 @@ God said, “Let there be light…”
 | [epochs](#epochs)
 | [thoughts](#thoughts)
 | [politics](#politics)
-| [democrats](#1828-2020s---Democrats)
-| [republicans](#1854-2019---Republicans)
+| [democrats](#1828-2020s---democrats)
+| [republicans](#1854-2019---republicans)
 
-Over short and long periods of time the peoples’ perspectives evolve, understandings shift, and minds expand.
+Over short and long periods of time the peoples’ perspectives evolve, understandings shift, and minds expand - though not all.
 
 ### Horizons
 - Hunting grounds
@@ -163,7 +163,7 @@ Over short and long periods of time the peoples’ perspectives evolve, understa
 - Gods
 - God
 - People
-- Republicans
+- Republican
 - Sovereigns	
 
 ### Theisms
@@ -172,7 +172,7 @@ Over short and long periods of time the peoples’ perspectives evolve, understa
 - Monotheism
 - Spiritualism
 - Atheism
-- Science
+- Trumpism
 
 ### Intellects
 - Metaphysical
@@ -206,8 +206,8 @@ Over short and long periods of time the peoples’ perspectives evolve, understa
 | [epochs](#epochs)
 | [thoughts](#thoughts)
 | [politics](#politics)
-| [democrats](#1828-2020s---Democrats)
-| [republicans](#1854-2019---Republicans)
+| [democrats](#1828-2020s---democrats)
+| [republicans](#1854-2019---republicans)
 
 Nowhere more than in politics the peoples’ perspectives evolve, often swinging between polar opposites under the same banner.
 
@@ -234,13 +234,15 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Backers: Middle-class voters
 - Politics: Individual Sovereign, Meritocratic
 - Politics: Anti-expansionism, no new states
-- Politics: Tolerated Slavery
+- Politics: Tolerated Slavery, Solid South
 - Politics: Conservatism, Preserve Culture
-- Politics: Pro-slavery, Opposed Secession
+- Politics: Opposed Secession
 - Economy: Spending $1,000,000
 - Economy: Favored tariffs
 - Economy: Activist economic programs
-- Religion: Protestants	
+- Religion: Protestants
+- Foriegn: Opium War (1839) free trade
+- Conflict: Anti-Mexican War, annex Texas
 
 #### Minor Parties
 
@@ -270,8 +272,8 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 | [epochs](#epochs)
 | [thoughts](#thoughts)
 | [politics](#politics)
-| [democrats](#1828-2020s---Democrats)
-| [republicans](#1854-2019---Republicans)
+| [democrats](#1828-2020s---democrats)
+| [republicans](#1854-2019---republicans)
 
 - Notable: 57% of voters
 - Notable: The oldest party, worldwide
@@ -289,7 +291,7 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Religion: Catholics
 - Foreign: Darwin’s journey of discovery
 - Foreign: Suez Canal opens
-- Conflicts: Anti-Civil War, for peace
+- Conflict: Anti-Civil War, for peace
 - Conflict: World War I
 
 ### 1920-1970
@@ -310,7 +312,7 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Social: Anti-Guns, Pro-Choice
 - Social: Civil Rights Act (1964)
 - Religion: Irish Catholics
-- Conflicts: World War II
+- Conflict: World War II
 - Conflict: Vietnam War, Cold War
 
 ### 1970-2020s
@@ -324,8 +326,8 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Economy: Spending $6,553,000,000,000
 - Economy: Balanced budget (1990)
 - Economy: Early rightward shift
-- Economy: Early free-market reforms
 - Economy: Early reduced welfare, unions
+- Social: Roe v Wade, abortion
 - Social: Anti-Guns, Pro-Choice
 - Social: Same-sex marriage (2015)
 - Social: Pandemic vaccination, masking
@@ -340,28 +342,30 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 | [epochs](#epochs)
 | [thoughts](#thoughts)
 | [politics](#politics)
-| [democrats](#1828-2020s---Democrats)
-| [republicans](#1854-2019---Republicans)
+| [democrats](#1828-2020s---democrats)
+| [republicans](#1854-2019---republicans)
 
-- Notable: 43% of voters	
+- Notable: 43% of voters
 - Notable: 2nd oldest party in America
 
 ### 1854-1920
-- Who: Lincoln
+- Who: Lincoln / Grant / Garfield / Teddy
 - Notable: Dominant party
+- Notable: Lincoln assassinated
 - Notable: Johnson first impeached (1868)
 - Backers: British and Midwest voters
 - Backers: City voters
 - Backers: Black voters
-- Politics: Birth of Modern Conservatives
+- Politics: End of slavery
 - Politics: Strong Liberals, free speech
+- Politics: Birth of Modern Conservatives
 - Economy: Spending $18,000,000
 - Economy: Entrepreneurs
-- Economy: Low of no taxes
+- Economy: Low or no taxes
 - Economy: Northeast economic boom
 - Economy: Expand banking
 - Economy: …railroads and factories
-- Religion: Baptists and Melodists
+- Religion: Baptists and Methodists
 - Conflict: Pro-Civil War, no slavery
 - Conflict: World War I	
 
@@ -369,11 +373,11 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Who: Hoover / Eisenhower / Nixon
 - Notable: Dropped nuclear bomb on Japan
 - Notable: Landed a man on the moon
+- Notable: First Air Force One (Ike)
+- Notable: Interstate Highway (Ike)
 - Backers: Evangelical Christian voters
 - Backers: Rural voters
 - Backers: Southern voters
-- Notable: First Air Force One (Ike)
-- Notable: Interstate Highway (Ike)
 - Politics: Moving to Center
 - Economy: Spending $195,000,000
 - Economy: Pro-Protectionism
@@ -382,30 +386,29 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Social: Roaring 20’s
 - Social: Prohibition, Dry Republicans
 - Social: Pro-Guns, Anti-Choice
-- Religion: Religious right
+- Religion: Rise of the Religious right
 - Conflict: Korean War, Cold War
 
 ### 1970-2020
 - Who: Nixon / Reagan / Bush / Trump
 - Notable: No more gold-standard
-- Notable: Watergate Scandal
+- Notable: Watergate Scandal, Nixon out
 - Notable: September 11, 2001
-- Notable: Jan. 6th, 2021 - Insurrection
+terrorists
+- Notable: Jan. 6th, 2021 Insurrection
 - Notable: Trump impeached twice
 - Backers: Evangelical Right voters
 - Politics: Reagan Democrats (1980)
-- Politics: Rise of the Tea Party
 - Politics: Republican Revolution (1994)
+- Politics: Rise of the Tea Party
 - Economy: Spending $6,553,000,000,000
-- Economy: Reaganomics, 3x Deficit
+- Economy: Reaganomics, triples Deficit
 - Economy: Outlaw ObamaCare
 - Social: Pro-Guns, Anti-Choice
-- Social: Pandemic, Op. Warp Speed,
+- Social: Pandemic Operation Warp Speed
 - Religion: Merge Church and State
-- Foreign: Soviet collapse (1991)
 - Foreign: Reagan and Gorbachev buds
+- Foreign: Soviet collapse (1991)
 - Foreign: Trump and Putin buds
 - Conflict: Iraq, Afghanistan
-
-
 
