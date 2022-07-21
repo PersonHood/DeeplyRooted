@@ -34,7 +34,7 @@ So, let's start with the crux of the issues, "We the People", or those who were 
 - 1942 - 1946 Not Japanese
 - 1954 - 1973 Not Communists
  
-## Exceptions
+## Except...
 
 - until 1967 - Not Interracial
 - until 1973 - Poll-taxed
