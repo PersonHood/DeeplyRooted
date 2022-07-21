@@ -1,11 +1,6 @@
 # Deeply Rooted
 
-[top](#deeply-rooted)
-| [epochs](#epochs)
-| [thoughts](#thoughts)
-| [politics](#politics)
-| [democrats](#1828-2020s---democrats)
-| [republicans](#1854-2019---republicans)
+[top](#deeply-rooted) | [epochs](#epochs) | [thoughts](#thoughts) | [politics](#politics) | [dem](#1828-2020s---democrats) | [rep](#1854-2019---republicans)
 
 No stance is deeply rooted. It is all a matter of the time scale.
 
@@ -13,7 +8,7 @@ Over 5,005,500,000 years we start with a gap in the galaxy and end up with recog
 
 Over 55,000 years we start with people hunting and gathering food, with tools, and end up with civilizations and religions.
 
-Over 550 years we start with Kings launching ships to explore the globe and end up with a President launching a rocket to explore the moon
+Over 550 years we start with Kings launching ships to explore the globe and end up with a President launching a rocket to explore the moon.
 
 Over 5 years we start with a President dividing the People and end with another President reuniting the northern hemisphere.
 
@@ -32,13 +27,15 @@ So, let's start with the crux of the issues, "We the People", or those who were 
 - until 1971 - Age 21+
 
 ## European
+
 - 1776 - 1943 Not Chinese
 - 1776 - 1924 Not Natives
 - 1787 - 1868 Not 3/5th Slaves
 - 1942 - 1946 Not Japanese
 - 1954 - 1973 Not Communists
-	 
+ 
 ## Exceptions
+
 - until 1967 - Not Interracial
 - until 1973 - Poll-taxed
 - until 2003 - Not Homosexual
@@ -47,16 +44,12 @@ So, let's start with the crux of the issues, "We the People", or those who were 
 
 ## Epochs
 
-[top](#deeply-rooted)
-| [epochs](#epochs)
-| [thoughts](#thoughts)
-| [politics](#politics)
-| [democrats](#1828-2020s---democrats)
-| [republicans](#1854-2019---republicans)
+[top](#deeply-rooted) | [epochs](#epochs) | [thoughts](#thoughts) | [politics](#politics) | [dem](#1828-2020s---democrats) | [rep](#1854-2019---republicans)
 
 Epochs from oldest to most recent, the number of years preceding the present, on a semi-logarithmic scale:
 
 ### -5,000,000,000 (billion)
+
 - Formation of the Sun and Earth
 - No Continents
 - No Food
@@ -64,6 +57,7 @@ Epochs from oldest to most recent, the number of years preceding the present, on
 - Let’s see what happens…
 
 ### -5,000,000 (million)
+
 - Pliocene Epoch
 - Land Dividing into Continents
 - Archeological History in Africa
@@ -74,6 +68,7 @@ Epochs from oldest to most recent, the number of years preceding the present, on
 - Let’s swing from the trees…
 
 ### -500,000
+
 - Pleistocene Epoch
 - Modern Continents
 - More Archeological History in Africa
@@ -84,6 +79,7 @@ Epochs from oldest to most recent, the number of years preceding the present, on
 - Let’s run after that…
 
 ### -50,000
+
 - Holocene Epoch
 - Last Ice Age
 - Early History beyond Africa
@@ -94,7 +90,7 @@ Epochs from oldest to most recent, the number of years preceding the present, on
 
 ### -5,000
 
-God said, “Let there be light…”
+- God said, "Let there be light…"
 - Stone Age, Bronze Age, Iron Age
 - Christians, Muslims, Jews,
 - Confucians, Hindus, Buddhists
@@ -103,6 +99,7 @@ God said, “Let there be light…”
 - Let’s circle the wagons…
 
 ### -500
+
 - Little Ice Age
 - Industrial Age, Electric Age
 - Pandemics and Plagues
@@ -112,6 +109,7 @@ God said, “Let there be light…”
 - Let’s take the car out for a drive…
 
 ### -50
+
 - Global Warming
 - Electronic Age, Information Age
 - No Pandemic
@@ -121,6 +119,7 @@ God said, “Let there be light…”
 - Let’s fly around the world…
 
 ### -5
+
 - Presidential Meltdown
 - Green Age
 - Pandemic
@@ -129,7 +128,8 @@ God said, “Let there be light…”
 - Fire up the people
 - Let’s see how far this EV can go…
 
-### + 5
+### +5
+
 - Global Meltdown
 - Quantum Age
 - Pandemic’s past
@@ -140,33 +140,31 @@ God said, “Let there be light…”
 
 ## Thoughts
 
-[top](#deeply-rooted)
-| [epochs](#epochs)
-| [thoughts](#thoughts)
-| [politics](#politics)
-| [democrats](#1828-2020s---democrats)
-| [republicans](#1854-2019---republicans)
+[top](#deeply-rooted) | [epochs](#epochs) | [thoughts](#thoughts) | [politics](#politics) | [dem](#1828-2020s---democrats) | [rep](#1854-2019---republicans)
 
 Over short and long periods of time the peoples’ perspectives evolve, understandings shift, and minds expand - though not all.
 
 ### Horizons
-- Hunting grounds
-- Flat Earth vs Globe
-- Geocentric vs Heliocentric
-- Solar System vs Galaxy
-- Galaxy vs Universe
-- Universe vs Multiverse
-- Multiverse vs Simulation
+
+- One day's walk
+- Geocentric
+- Heliocentric
+- Galactic
+- Universe
+- Multiverse
+- Simulation
 
 ### Rulers
+
 - Spirits
 - Gods
 - God
 - People
 - Republican
-- Sovereigns	
+- Sovereigns 
 
 ### Theisms
+
 - Pantheism
 - Polytheism
 - Monotheism
@@ -174,7 +172,8 @@ Over short and long periods of time the peoples’ perspectives evolve, understa
 - Atheism
 - Trumpism
 
-### Intellects
+### Thinkers
+
 - Metaphysical
 - Individual
 - Mammal
@@ -184,34 +183,32 @@ Over short and long periods of time the peoples’ perspectives evolve, understa
 - Extraterrestrial
 
 ### Theories
+
 - Static vs Expanding Universe
-- Contained vs Infinite Universe
 - Creation vs Evolution
 - 5,000 years old vs 13 billion years old
 - Bodily Humors vs Modern Medicine
 - Newton vs Einstein
 
 ### Cultures
+
 - Theocracy vs Democracy
 - Prohibition vs Permissiveness
 - Radio vs Television
 - Crooners vs Rockers
 - Telephone vs Mobil Phone
+- Heterosexual vs Homosexual Marriage
 - Progressives vs Conservatives
 - Democrats vs Republicans
 
 ### Politics
 
-[top](#deeply-rooted)
-| [epochs](#epochs)
-| [thoughts](#thoughts)
-| [politics](#politics)
-| [democrats](#1828-2020s---democrats)
-| [republicans](#1854-2019---republicans)
+[top](#deeply-rooted) | [epochs](#epochs) | [thoughts](#thoughts) | [politics](#politics) | [dem](#1828-2020s---democrats) | [rep](#1854-2019---republicans)
 
 Nowhere more than in politics the peoples’ perspectives evolve, often swinging between polar opposites under the same banner.
 
 #### 1789-1835 - Federalists
+
 - Who: Adams / Hamilton
 - Notable: First Political Party
 - Notable: Dominant until 1810
@@ -228,6 +225,7 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Conflict: Anti-war America (1812)
 
 #### 1833-1856 - Whigs
+
 - Who: Webster / Clay
 - Notable: Dominant until 1840s
 - Notable: Merged with Republicans
@@ -266,19 +264,15 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Notable: Pro-Social welfare
 - Notable: Pro-Snow
 
-## 1828-2020s - Democrats	
+## 1828-2020s - Democrats 
 
-[top](#deeply-rooted)
-| [epochs](#epochs)
-| [thoughts](#thoughts)
-| [politics](#politics)
-| [democrats](#1828-2020s---democrats)
-| [republicans](#1854-2019---republicans)
+[top](#deeply-rooted) | [epochs](#epochs) | [thoughts](#thoughts) | [politics](#politics) | [dem](#1828-2020s---democrats) | [rep](#1854-2019---republicans)
 
 - Notable: 57% of voters
 - Notable: The oldest party, worldwide
 
 ### 1828-1920
+
 - Who: Jackson / Van Buren
 - Backers: White voters
 - Backers: Southern voters
@@ -295,6 +289,7 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Conflict: World War I
 
 ### 1920-1970
+
 - Who: Wilson / Roosevelt / Truman / Kennedy
 - Notable: America Ascendant, Global Dollar
 - Notable: Kennedy assassinated
@@ -316,6 +311,7 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Conflict: Vietnam War, Cold War
 
 ### 1970-2020s
+
 - Who: Carter / Clinton / Obama
 - Notable: Clinton scandal
 - Notable: 1st Black President
@@ -338,17 +334,13 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 
 ## 1854-2019 - Republicans
 
-[top](#deeply-rooted)
-| [epochs](#epochs)
-| [thoughts](#thoughts)
-| [politics](#politics)
-| [democrats](#1828-2020s---democrats)
-| [republicans](#1854-2019---republicans)
+[top](#deeply-rooted) | [epochs](#epochs) | [thoughts](#thoughts) | [politics](#politics) | [dem](#1828-2020s---democrats) | [rep](#1854-2019---republicans)
 
 - Notable: 43% of voters
 - Notable: 2nd oldest party in America
 
 ### 1854-1920
+
 - Who: Lincoln / Grant / Garfield / Teddy
 - Notable: Dominant party
 - Notable: Lincoln assassinated
@@ -367,9 +359,10 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Economy: …railroads and factories
 - Religion: Baptists and Methodists
 - Conflict: Pro-Civil War, no slavery
-- Conflict: World War I	
+- Conflict: World War I 
 
 ### 1920-1970
+
 - Who: Hoover / Eisenhower / Nixon
 - Notable: Dropped nuclear bomb on Japan
 - Notable: Landed a man on the moon
@@ -390,12 +383,12 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 - Conflict: Korean War, Cold War
 
 ### 1970-2020
+
 - Who: Nixon / Reagan / Bush / Trump
 - Notable: No more gold-standard
 - Notable: Watergate Scandal, Nixon out
-- Notable: September 11, 2001
-terrorists
-- Notable: Jan. 6th, 2021 Insurrection
+- Notable: September 11, 2001 terrorists
+- Notable: Jan. 6th, 2021 insurrection
 - Notable: Trump impeached twice
 - Backers: Evangelical Right voters
 - Politics: Reagan Democrats (1980)
