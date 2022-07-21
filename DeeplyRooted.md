@@ -2,7 +2,7 @@
 
 [top](#deeply-rooted) | [epochs](#epochs) | [thoughts](#thoughts) | [politics](#politics) | [dem](#1828-2020s---democrats) | [rep](#1854-2019---republicans)
 
-No stance is deeply rooted. It is all a matter of the time scale.
+No stance is deeply rooted. It is all a matter of your time scale.
 
 Over 5,005,500,000 years we start with a gap in the galaxy and end up with recognizable people making tools.
 
@@ -14,7 +14,7 @@ Over 5 years we start with a President dividing the People and end with another 
 
 Nothing written on parchment 250 years ago is without room for reinterpretation; is so deeply rooted in history without showing its age.
 
-# We the People... 1776 and beyond
+## We the People... 1776 and beyond
 
 So, let's start with the crux of the issues, "We the People", or those who were not property nor otherwise disenfranchised at the time.
 
@@ -364,7 +364,7 @@ Nowhere more than in politics the peoples’ perspectives evolve, often swinging
 ### 1920-1970
 
 - Who: Hoover / Eisenhower / Nixon
-- Notable: Dropped nuclear bomb on Japan
+- Notable: Dropped a nuclear bomb on Japan
 - Notable: Landed a man on the moon
 - Notable: First Air Force One (Ike)
 - Notable: Interstate Highway (Ike)
