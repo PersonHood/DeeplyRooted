@@ -1,4 +1,4 @@
-Link the GitHub repository.
+Link to GitHub repository.
 
 
 [Link](https://github.com/PersonHood/DeeplyRooted)
