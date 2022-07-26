@@ -23,7 +23,7 @@ So, let's start with the crux of the issues, "We the People", or those who were 
 - until 1920 - Male
 - until 1840 - Propertied
 - until 1863 - Free
-- until 1940 - Natural-born citizens
+- until 1940 - Natural-born
 - until 1971 - Age 21+
 
 ## European
