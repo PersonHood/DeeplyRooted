@@ -1,6 +1,8 @@
 ## DeeplyRooted
 
-Download the latest `Release` zip file.
+Download the latest `Release`.
+
+>[zip](https://github.com/PersonHood/DeeplyRooted/archive/refs/tags/v2.2.zip)
 
 No stance is deeply rooted. It is all a matter of your time scale.
 
