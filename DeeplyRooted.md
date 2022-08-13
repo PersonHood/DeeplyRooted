@@ -1,3 +1,11 @@
+[  this is a comment. ]::
+
+<link href="styles.css" rel="stylesheet"></link>
+
+> [DeeplyRooted](./DeeplyRooted.md) | [Appendices](./Appendices-Top/DeeplyRooted-00-Appendices.md) | [WTF](./Appendices-Top/DeeplyRooted-01-WTF.md) | [Motivate](./Appendices-Top/DeeplyRooted-02-Motivate.md) 
+> [Overview](./Appendices-Top/DeeplyRooted-03-Overview.md) | [Definitions](./Appendices-Top/DeeplyRooted-04-Definitions.md) | [Memes](./Appendices-Top/DeeplyRooted-05-Memes.md) | [Admin](./Appendices-Top/DeeplyRooted-06-Admin.md) 
+> [TT4N](./Appendices-Top/DeeplyRooted-07-TT4N.md) | [Hosts](./Appendices-Top/DeeplyRooted-08-Hosts.md) | [Bibliography](./Appendices-Top/DeeplyRooted-99-Bibliography.md) 
+
 # Deeply Rooted
 
 [top](#deeply-rooted) | [epochs](#epochs) | [thoughts](#thoughts) | [politics](#politics) | [dem](#1828-2020s---democrats) | [rep](#1854-2019---republicans)
